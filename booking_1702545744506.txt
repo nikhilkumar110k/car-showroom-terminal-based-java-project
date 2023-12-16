@@ -1,0 +1,8 @@
+CUSTOMER NAME: nikhil
+-------------------------------------------
+BOOKED CAR NAME AND MODEL NUMBER: bmw x1
+-------------------------------------------
+BOOKED CAR PRICE: 5.0E7
+-------------------------------------------
+CAR BOOKED FROM SHOW ROOM: nikhilmotors
+-------------------------------------------

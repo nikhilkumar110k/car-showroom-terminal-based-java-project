@@ -1,0 +1,8 @@
+CUSTOMER NAME: jatin
+-------------------------------------------
+BOOKED CAR NAME AND MODEL NUMBER: mercerdes gla2
+-------------------------------------------
+BOOKED CAR PRICE: 6.73E7
+-------------------------------------------
+CAR BOOKED FROM SHOW ROOM: nikhilmotors
+-------------------------------------------

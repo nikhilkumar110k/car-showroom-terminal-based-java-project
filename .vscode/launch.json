@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CarShowroom",
+            "request": "launch",
+            "mainClass": "CarShowroom",
+            "projectName": "Car Showroom Management System - Copy_40a4a41d"
+        },
+        {
+            "type": "java",
+            "name": "CarShowroom",
+            "request": "launch",
+            "mainClass": "CarShowroom",
+            "projectName": "Car Showroom Management System - Copy_3c29bc96"
+        },
+        {
+            "type": "java",
+            "name": "CarShowroom",
+            "request": "launch",
+            "mainClass": "CarShowroom",
+            "projectName": "Car Showroom Management System_db9d7ef2"
+        },
+        {
+            "type": "java",
+            "name": "CarShowroom",
+            "request": "launch",
+            "mainClass": "CarShowroom",
+            "projectName": "Car Showroom Management System_fa23bce9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CarShowroom",
+            "request": "launch",
+            "mainClass": "CarShowroom",
+            "projectName": "poppy_b8bcb101"
+        }
+    ]
+}
